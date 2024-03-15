@@ -1,2 +1,2 @@
 # 9GHZ
- MarketPlace feito em ReactJs e TailWindCSS
+ 9Ghz MarketPlace, frist production iteration
